@@ -1,0 +1,7 @@
+- Budget: 100 Crores.
+- Total of 130 players will go under the hammer. (120 players given in the list and remaining 10 will be revealed during the auction - Surprise Package)
+- There will be an auction for all the teams as well. You will get to bid for your favorite team and will get the perks of RTM card (free).
+- Squad Size: 11 players
+- You must submit a final 11 player team and the team rating will be calculated accordingly.
+- The team with the highest rating will win.
+- In case of any discrepancies, the event team's decision will be final.
