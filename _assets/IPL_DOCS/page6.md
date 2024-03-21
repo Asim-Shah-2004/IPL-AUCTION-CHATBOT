@@ -18,4 +18,6 @@
 - FOR ALL-ROUNDERS, ALL 6 RATING PARAMETERS WILL HAVE VALUE AND THUS THEY CAN BE USED AS BATTER (IN ANY OF THE 3 CATEGORIES) OR BOWLERS (IN ANY OF THE 3 CATEGORIES) OR BOTH.
 - 1 ALL-ROUNDER CAN BE USED IN MAXIMUM 4 CATEGORIES (2 IN BATTING AND 2 IN BOWLING).
 
+Teams are suggested to form 3 columns each for the batting and bowling in excel sheet for their convenience as it would be easy to keep track of the criterias to fulfil.As the player is sold to the team ,they can put that player in their preferred slot of batting or bowling, for example if rohit sharma has batting 10(powerplay),9(middle-order),8(death), then the team can allocate him in powerplay and middle order as each batsman can be put in max 2 categories ,same goes for bowling as well.
+By doing this the teams can decide as to what category is yet to fullfil and which players addition would earn then bonus points as each category has certain required players as mentioned earlier.
 
