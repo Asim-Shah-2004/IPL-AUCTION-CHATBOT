@@ -6,7 +6,7 @@
 
 ### PLAYER CHEMISTRY
 - YOU WILL GET 5 BONUS POINTS FOR A PAIR OF PLAYERS WHICH WILL BE MENTIONED IN A PLAYER CHEMISTRY LIST WHICH WILL BE PROVIDED BY US. (LIKE IF TWO PLAYERS HAVE PLAYER CHEMISTRY 2-2 THEN HAVING BOTH WILL ADD +5 POINTS TO THE TOTAL).
-For example , lets assume that rohit sharma and suryakumar yadav have been allocated same player chemistry points which means that if a team manages to buy both the players then bonus points will be added to the teams total.
+
 
 ### CAPTAINCY POINTS CONCEPT
 - CAPTAINCY POINTS HAVE BEEN ALLOTTED TO CERTAIN PLAYERS.
