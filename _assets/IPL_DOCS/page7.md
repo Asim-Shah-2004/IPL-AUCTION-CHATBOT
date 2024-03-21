@@ -6,13 +6,13 @@
 
 ### PLAYER CHEMISTRY
 - YOU WILL GET 5 BONUS POINTS FOR A PAIR OF PLAYERS WHICH WILL BE MENTIONED IN A PLAYER CHEMISTRY LIST WHICH WILL BE PROVIDED BY US. (LIKE IF TWO PLAYERS HAVE PLAYER CHEMISTRY 2-2 THEN HAVING BOTH WILL ADD +5 POINTS TO THE TOTAL).
-
+For example , let us assume that rohit sharma and suryakumar yadav have been allocated same player chemistry points which means that if a team manages to buy both the players then bonus points will be added to the teams total.
 
 ### CAPTAINCY POINTS CONCEPT
 - CAPTAINCY POINTS HAVE BEEN ALLOTTED TO CERTAIN PLAYERS.
 - IF YOU DECIDE TO MAKE THAT PARTICULAR PLAYER AS THE CAPTAIN OF YOUR TEAM THEN BONUS POINTS MENTIONED WOULD BE ADDED TO THE TOTAL.
-
+If a player has captaincy points mentioned in the list given to you and if you decide to make the player the captain, then captaincy points will be added to the teams total that would be done in the calculator part on the website that will be provided to the teams during the auction process.
 
 ### ELITE PLAYERS CONCEPT
 - PLAYERS MARKED ELITE HAVE THEIR BASE PRICE SET AT 4CR
-
+Players such has rohit sharma,virat kohli and many more have their base price set at 4 cr so their bidding will start from 4cr
